@@ -1,6 +1,6 @@
 # vamvam
 
-A new Flutter project.
+O projeto foi feito com intuido de ser um contador de numero, podendo ser negativo e positivo.
 
 ## Getting Started
 
